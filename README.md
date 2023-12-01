@@ -9,6 +9,6 @@ Este é um aplicativo onde usuário consegue adicinar uma lista de frutas, poden
 - O usuário consegue adicionar uma imagem através da URL
 
 ## Capturas de Tela
-[![Watch the video](https://imgur.com/kdrjN1O)
+[![Watch the video](https://imgur.com/zFT02gn)
 
 
